@@ -4,12 +4,23 @@
     <span> Profiles README DIO</span>
 </h1>
 
+# Profiles - Projeto Didático DIO
+
 ## Sobre o Projeto
-Página desenvolvida para fins didáticos para o curso **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/). Lembre-se de que Markdown é mais voltado para a documentação e apresentação de texto formatado, enquanto a remoção de bugs normalmente envolve a compreensão detalhada do código e o uso de ferramentas de desenvolvimento adequadas à linguagem de programação específica.
 
-[![Preview](https://img.shields.io/badge/Preview-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://digitalinnovationone.github.io/dio-lab-open-source/)
+Este projeto foi desenvolvido para fins didáticos, como parte do curso "Contribuindo em um Projeto Open Source no GitHub" oferecido pela Digital Innovation One (DIO). O objetivo principal é fornecer uma introdução prática ao desenvolvimento de páginas web e contribuir para a aprendizagem de como trabalhar com projetos Open Source.
 
-```
+### Objetivo do Projeto:
+
+- Criar uma página de perfil utilizando HTML, CSS e JavaScript.
+- Explorar práticas de desenvolvimento colaborativo em projetos Open Source.
+
+> **Nota:** Markdown é uma linguagem de formatação simples utilizada para documentação e apresentação de texto. Para tarefas como correção de bugs, é fundamental ter uma compreensão detalhada do código e usar ferramentas adequadas à linguagem de programação.
+
+## Estrutura do Projeto
+
+A estrutura do diretório do projeto é a seguinte:
+
 docs/
 ├── assets/
 │   ├── css/
@@ -20,6 +31,7 @@ docs/
 ├── index.html
 └── README.md
 ```
+
 
 ## Tecnologias
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
